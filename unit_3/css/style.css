@@ -16,3 +16,6 @@ p {
 		font-style: italic;
 	}
 }
+ol {
+	text-align: center;
+}
