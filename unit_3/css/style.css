@@ -1,6 +1,6 @@
 body {
 	text-align: center;
-	background: image("images/CommsAnatomyBrainProcessing.jpg");
+	background: rgb(182,206,255);
 	font-family: Helvetica
 }
 hr {
@@ -11,11 +11,14 @@ h1 {
 	font-size: 32px;
 
 }
+h2 {
+	background: rgba(104,158,255,0.7);
+	font-size: 24px;
+}
 #slogan {
 		font-style: italic;
 	}
 p {
-	background: rgb(104,158,255);
 	font-size: 18px;
 	}
 }
