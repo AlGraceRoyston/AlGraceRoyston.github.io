@@ -1,7 +1,6 @@
 body {
 	text-align: center;
-	background: url(../images/CommsAnatomyBrainProcessing.jpg);
-	background-size: cover;
+	background: rgb(182,206,255);
 	font-family: Helvetica;
 	color: rgb(38,38,79);
 }
