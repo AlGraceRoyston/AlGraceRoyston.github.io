@@ -19,9 +19,7 @@ p {
 	font-size: 18px;
 	}
 }
-ol{
-	font-style: italic;
-}
-li {
+ul {
 	text-align: center;
+	list-style-type: none;
 }
