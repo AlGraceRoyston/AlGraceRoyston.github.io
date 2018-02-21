@@ -1,5 +1,7 @@
 body {
 	background: rgb(182,206,255) 
+	background-image: url("images/CommsAnatomyBrainProcessing.jpg");
+	background-size: cover;
 }
 h1 {
 	color: rgb(1,0,31);
