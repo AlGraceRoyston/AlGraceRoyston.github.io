@@ -1,6 +1,6 @@
 body {
 	text-align: center;
-	background: url("images/CommsAnatomyBrainProcessing.jpg");
+	background: image("images/CommsAnatomyBrainProcessing.jpg");
 	font-family: Helvetica
 }
 hr {
