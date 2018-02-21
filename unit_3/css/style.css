@@ -1,6 +1,12 @@
 body {
-	background-color: blue;
+	background: "image/CommsAnatomyBrainProcessing.jpg";
+	background-size: cover;
 }
-h1, p {
-	color: yellow;
+h1 {
+	color: rgb(1,0,31);
+}
+p {
+	#slogan{
+		font-style: italic;
+	}
 }
