@@ -1,5 +1,5 @@
 body {
-	background: "image/CommsAnatomyBrainProcessing.jpg";
+	background: url("image/CommsAnatomyBrainProcessing.jpg");
 	background-size: cover;
 }
 h1 {
