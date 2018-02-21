@@ -1,8 +1,7 @@
 body {
-	background: url("images/CommsAnatomyBrainProcessing.jpg");
-	background-size: cover;
-	font-family: "Calibri Light"
 	text-align: center;
+	background: rgb(182,206,255);
+	font-family: "Calibri Light"
 }
 hr {
 	width: 200px;
