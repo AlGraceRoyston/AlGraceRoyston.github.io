@@ -1,33 +1,27 @@
 body {
 	text-align: center;
 	background: rgb(182,206,255);
+	font-family: Helvetica
+	color: rgb(1,0,31);
 }
 hr {
 	width: 200px;
 }
 h1 {
-	color: rgb(1,0,31);
-	font-family: Helvetica
 	font-size: 32px;
 }
 h2 {
 	background: rgba(104,158,255,0.7);
-	color: rgb(1,0,31);
-	font-family: Helvetica
 	font-size: 24px;
 }
 #slogan {
 		font-style: italic;
 	}
 p {
-	color: rgb(1,0,31);
-	font-family: Helvetica
 	font-size: 18px;
 	}
 }
 ul {
 	text-align: center;
 	list-style-type: none;
-	color: rgb(1,0,31);
-	font-family: Helvetica
 }
