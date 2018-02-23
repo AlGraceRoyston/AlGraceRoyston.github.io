@@ -21,9 +21,6 @@ p {
 	font-size: 18px;
 	}
 }
-ol, ul {
-	padding-left: 200px;
-}
 img {
-	height: 100%;
-}
+	width: 50%;
+} 
