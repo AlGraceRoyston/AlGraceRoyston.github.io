@@ -1,5 +1,6 @@
 body {
 	text-align: center;
+	background-image: url(../images/commsanatomybrainprocessing.jpg);
 	background-color: rgb(182,206,255);
 	font-family: Helvetica;
 	color: rgb(38,38,79);
@@ -22,5 +23,5 @@ p {
 	}
 }
 img {
-	width: 50%;
+	width: 100%;
 } 
