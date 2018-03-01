@@ -6,6 +6,9 @@ body {
 	font-family: Helvetica;
 	color: rgb(38,38,79);
 }
+img {
+	width: 100%;
+}
 hr {
 	width: 200px;
 }
