@@ -4,7 +4,10 @@
 }
 header {
 	background: rgba(104,158,255,0.7);
+}
+title {
 	color: rgb(38,38,79);
+	font-size: 36px;
 }
 body {
 	text-align: center;
