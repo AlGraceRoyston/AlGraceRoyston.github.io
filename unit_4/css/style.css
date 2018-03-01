@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Krona+One);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower|Krona+One|Raleway);
 * {
 	padding: 0;
 	margin: 0;
@@ -26,6 +26,7 @@ h1 {
 	padding-top: 200px;
 }
 h2 {
+	font-family: 'Indie Flower', cursive;
 	font-size: 24px;
 	padding: 20px;
 	padding-top: 50px;
@@ -34,6 +35,7 @@ h2 {
 		font-style: italic;
 	}
 p {
+	font-family: 'Indie Flower', cursive;
 	font-size: 18px;
 	padding: 20px;
 }
