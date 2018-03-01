@@ -5,7 +5,6 @@
 }
 header {
 	background: rgba(73,113,125,0.7);
-	text-align: center;
 }
 body {
 	text-align: center;
@@ -19,6 +18,7 @@ body {
 }
 hr {
 	width: 200px;
+	align: center;
 }
 h1 {
 	font-family: 'Krona One', sans-serif;
