@@ -4,7 +4,7 @@
 	margin: 0;
 }
 header {
-	background: rgba(73,113,125,0.7);
+	background: rgb(127,0,0);
 	text-align: right;
 	padding: 20px;
 }
@@ -44,7 +44,7 @@ h2 {
 p {
 	font-family: 'Indie Flower', cursive;
 	font-size: 1.5em;
-	padding: 20px;
+	padding: 10px;
 }
 section {
 	background-color: rgb(182,206,255);
