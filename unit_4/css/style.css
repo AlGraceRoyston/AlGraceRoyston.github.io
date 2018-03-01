@@ -5,6 +5,10 @@
 }
 header {
 	background: rgba(73,113,125,0.7);
+	text-align: right;
+}
+img {
+	float: left;
 }
 body {
 	text-align: center;
