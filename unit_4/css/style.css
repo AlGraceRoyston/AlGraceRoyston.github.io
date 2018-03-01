@@ -7,7 +7,7 @@ header {
 	background: rgba(73,113,125,0.7);
 }
 a {
-	align-content: right;
+	text-align: right;
 }
 body {
 	text-align: center;
