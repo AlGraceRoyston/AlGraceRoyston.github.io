@@ -6,6 +6,9 @@
 header {
 	background: rgba(73,113,125,0.7);
 }
+a {
+	align-content: right;
+}
 body {
 	text-align: center;
 	background-image: url("../images/CommsAnatomyGrids.jpg");
@@ -16,10 +19,7 @@ body {
 	color: rgb(38,38,79);
 	padding: 20px;
 }
-hr {
-	width: 200px;
-	align: center;
-}
+
 h1 {
 	font-family: 'Krona One', sans-serif;
 	font-size: 3em;
