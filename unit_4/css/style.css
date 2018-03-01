@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+	background: url("../images/CommsAnatomyBrainProcessing.jpg");
+	background-color: rgb(182,206,255);
+	font-family: Helvetica;
+	color: rgb(38,38,79);
+}
+hr {
+	width: 200px;
+}
+h1 {
+	font-size: 32px;
+}
+h2 {
+	background: rgba(104,158,255,0.7);
+	font-size: 24px;
+}
+#slogan {
+		font-style: italic;
+	}
+p {
+	font-size: 18px;
+}
