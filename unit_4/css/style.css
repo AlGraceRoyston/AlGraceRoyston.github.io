@@ -5,9 +5,6 @@
 header {
 	background: rgba(104,158,255,0.7);
 }
-img {
-	height: 10%;
-}
 body {
 	text-align: center;
 	background-image: url("../images/CommsAnatomyGrids.jpg");
@@ -16,6 +13,7 @@ body {
 	background-color: rgb(182,206,255);
 	font-family: Helvetica;
 	color: rgb(38,38,79);
+	padding: 20px;
 }
 hr {
 	width: 200px;
