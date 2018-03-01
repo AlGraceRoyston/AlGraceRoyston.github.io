@@ -18,12 +18,14 @@ body {
 hr {
 	width: 200px;
 }
+h1,h2,p {
+	background: rgba(104,158,255,0.7);
+}
 h1 {
 	font-size: 32px;
 	padding: 20px;
 }
 h2 {
-	background: rgba(104,158,255,0.7);
 	font-size: 24px;
 	padding: 20px;
 }
