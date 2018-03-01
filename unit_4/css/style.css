@@ -20,16 +20,19 @@ hr {
 }
 h1 {
 	font-size: 32px;
+	padding: 20px;
 }
 h2 {
 	background: rgba(104,158,255,0.7);
 	font-size: 24px;
+	padding: 20px;
 }
 #slogan {
 		font-style: italic;
 	}
 p {
 	font-size: 18px;
+	padding: 20px;
 }
 section {
 	background-color: rgb(182,206,255);
