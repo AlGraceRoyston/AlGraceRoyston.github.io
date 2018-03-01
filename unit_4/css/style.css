@@ -21,7 +21,7 @@ hr {
 h1 {
 	font-size: 32px;
 	padding: 20px;
-	padding-top: 100px;
+	padding-top: 200px;
 	background: rgba(47,116,125,0.7);
 }
 h2,p {
@@ -41,4 +41,7 @@ p {
 }
 section {
 	background-color: rgb(182,206,255);
+}
+footer {
+	float: bottom;
 }
