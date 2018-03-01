@@ -4,7 +4,8 @@
 	margin: 0;
 }
 header {
-	background: rgba(104,158,255,0.7);
+	background: rgba(73,113,125,0.7);
+	text-align: center;
 }
 body {
 	text-align: center;
