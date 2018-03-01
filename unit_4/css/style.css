@@ -2,7 +2,7 @@ header {
 	background: rgba(104,158,255,0.7);
 }
 
-section {
+body {
 	text-align: center;
 	background-image: url("../images/CommsAnatomyGrids.jpg");
 	background-size: cover;
@@ -26,4 +26,7 @@ h2 {
 	}
 p {
 	font-size: 18px;
+}
+section {
+	background-color: rgb(182,206,255);
 }
