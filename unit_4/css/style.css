@@ -1,4 +1,8 @@
-body {
+header {
+	background: rgba(104,158,255,0.7);
+}
+
+section {
 	text-align: center;
 	background-image: url("../images/CommsAnatomyGrids.jpg");
 	background-size: cover;
