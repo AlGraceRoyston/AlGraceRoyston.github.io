@@ -35,6 +35,11 @@ menu {
 	padding: 20px;
 }
 
+#three {
+	border: 1px black solid;
+	padding: 20px;
+}
+
 footer {
 	border: 1px black solid;
 	padding: 20px;
