@@ -20,6 +20,8 @@ body {
 	font-family: Helvetica;
 	color: rgb(38,38,79);
 	padding: 20px;
+	background-color: gray;
+    background-blend-mode: luminosity;
 }
 
 h1 {
