@@ -4,7 +4,7 @@
 	margin: 0;
 }
 header {
-	background: rgba(73,113,125,0.7);
+	background: #FFED74;
 	border: 1px black solid;
 	text-align: right;
 	padding: 20px;
@@ -18,7 +18,7 @@ img {
 	background-image: url("../images/CommsAnatomyGrids.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-color: rgb(182,206,255);
+	background-color: #FFE2B8;
 	font-family: Helvetica;
 	color: rgb(38,38,79);
 	padding: 20px;
@@ -28,21 +28,25 @@ img {
 
 menu {
 	border: 1px black solid;
+	background-color: #E8C66A;
 }
 
 #two {
 	border: 1px black solid;
 	padding: 20px;
+	background-color: #E89C6C;
 }
 
 #three {
 	border: 1px black solid;
 	padding: 20px;
+	background-color: #FFC675;
 }
 
 footer {
 	border: 1px black solid;
 	padding: 20px;
+	background-color: #FF957E;
 }
 
 h1 {
