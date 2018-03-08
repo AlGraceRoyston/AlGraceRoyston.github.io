@@ -32,21 +32,21 @@ menu {
 }
 
 #two {
+	background-color: #E89C6C;
 	border: 1px black solid;
 	padding: 20px;
-	background-color: #E89C6C;
 }
 
 #three {
+	background-color: #FFC675;
 	border: 1px black solid;
 	padding: 20px;
-	background-color: #FFC675;
 }
 
 footer {
+	background-color: #FF957E;
 	border: 1px black solid;
 	padding: 20px;
-	background-color: #FF957E;
 }
 
 h1 {
@@ -73,7 +73,4 @@ p {
 	padding: 10px;
 }
 
-}
-footer {
-	padding-top: 300px;
-}
+
