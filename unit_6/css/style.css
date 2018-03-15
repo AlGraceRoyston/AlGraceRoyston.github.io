@@ -28,7 +28,8 @@ img {
 
 menu {
 	border: 1px black solid;
-	background-color: #59DBFF;
+	padding: 20px;
+	background-color: #FF99AD;
 }
 
 #two_column {
