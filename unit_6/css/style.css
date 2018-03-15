@@ -1,0 +1,82 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower|Krona+One|Raleway);
+* {
+	padding: 0;
+	margin: 0;
+}
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	text-align: right;
+	padding: 20px;
+}
+img {
+	float: left;
+}
+#one {
+	text-align: center;
+	border: 1px black solid;
+	background-image: url("../images/CommsAnatomyGrids.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: #FFE2B8;
+	font-family: Helvetica;
+	color: rgb(38,38,79);
+	padding: 20px;
+	background-color: gray;
+    background-blend-mode: luminosity;
+}
+
+menu {
+	border: 1px black solid;
+	background-color: #E8C66A;
+}
+
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#right {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+h1 {
+	font-family: 'Krona One', sans-serif;
+	font-size: 3em;
+	padding: 20px;
+	padding-top: 200px;
+}
+h1,h2,p {
+	color: rgb(127,0,0);
+}
+h2 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 2em;
+	padding: 20px;
+	padding-top: 50px;
+}
+#slogan {
+		font-style: italic;
+	}
+p {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.5em;
+	padding: 10px;
+}
+
+
