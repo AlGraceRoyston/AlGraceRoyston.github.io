@@ -4,7 +4,7 @@
 	margin: 0;
 }
 header {
-	background-color: #FFED74;
+	background-color: #FF4F56;
 	border: 1px black solid;
 	text-align: right;
 	padding: 20px;
@@ -28,11 +28,11 @@ img {
 
 menu {
 	border: 1px black solid;
-	background-color: #E8C66A;
+	background-color: #59DBFF;
 }
 
 #two_column {
-	background-color: #FFB7CF;
+	background-color: #FF0000;
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -63,7 +63,7 @@ menu {
 }
 
 footer {
-	background-color: #FF957E;
+	background-color: #FF4F56;
 	border: 1px black solid;
 	padding: 20px;
 }
