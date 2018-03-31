@@ -3,15 +3,18 @@
 	padding: 0;
 	margin: 0;
 }
-header {
+
+#toplinks {
 	background-color: #FF4F56;
 	border: 1px black solid;
 	text-align: right;
-	padding: 20px;
+	padding: 1em;
 }
 img {
 	float: left;
+	height: 52px;
 }
+
 #one {
 	text-align: center;
 	border: 1px black solid;
@@ -21,35 +24,39 @@ img {
 	background-color: #FFE2B8;
 	font-family: Helvetica;
 	color: rgb(38,38,79);
-	padding: 20px;
+	padding: 1em;
 	background-color: gray;
     background-blend-mode: luminosity;
 }
 
 menu {
 	border: 1px black solid;
-	padding: 20px;
+	padding: 1em;
 	background-color: #FF99AD;
 }
 
 #two_column {
 	background-color: #FF0000;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 1em;
+
 }
 
 #left {
 	background-color: violet;
 	border: 1px black solid;
-	padding: 20px;
-	float: left;
-	width: 62%;
+	padding: 1em;
+	width: 60%;
+	height: 200px;
+	margin: 0 1em 1em;
+	display: inline-block;
+	background-image: url("../images/Tube_Map.jpg");
 }
 
 #right {
 	background-color: pink;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 1em;
 	float: right;
 	width: 30%;
 }
@@ -66,14 +73,14 @@ menu {
 footer {
 	background-color: #FF4F56;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 1em;
 }
 
 h1 {
 	font-family: 'Krona One', sans-serif;
 	font-size: 3em;
-	padding: 20px;
-	padding-top: 200px;
+	padding: 1em;
+	padding-top: 2em;
 }
 h1,h2,p {
 	color: rgb(127,0,0);
@@ -81,16 +88,49 @@ h1,h2,p {
 h2 {
 	font-family: 'Raleway', sans-serif;
 	font-size: 2em;
-	padding: 20px;
-	padding-top: 50px;
+	padding: 1em;
+	padding-top: .5em;
 }
 #slogan {
 		font-style: italic;
+		padding: .5em;
 	}
 p {
 	font-family: 'Raleway', sans-serif;
 	font-size: 1.5em;
-	padding: 10px;
+	padding: .5em;
+}
+
+@media only screen and (max-width: 900px) {
+	#toplinks {
+		font-size: .75em;
+	}
+	img {
+		width: auto;
+	}
+	menu {
+		font-size: .75em;
+	}
+	h1 {
+		font-size: 1.5em
+	}
+	h2, h3 {
+		font-size: 1em
+	}
+	p {
+		font-size: .75em
+	}
+	#left {
+		float: none;
+		width: 60%;
+		margin: 0 0 .5em;
+		padding-bottom: .5em;
+	}
+	#right {
+		float: none;
+		width: auto;
+		padding-top: .5em;
+	}
 }
 
 
