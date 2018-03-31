@@ -1,54 +1,96 @@
-<!DOCTYPE html>
-<html>
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower|Krona+One|Raleway);
+* {
+	padding: 0;
+	margin: 0;
+}
+header {
+	background-color: #FF4F56;
+	border: 1px black solid;
+	text-align: right;
+	padding: 20px;
+}
+img {
+	float: left;
+}
+#one {
+	text-align: center;
+	border: 1px black solid;
+	background-image: url("../images/CommsAnatomyGrids.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: #FFE2B8;
+	font-family: Helvetica;
+	color: rgb(38,38,79);
+	padding: 20px;
+	background-color: gray;
+    background-blend-mode: luminosity;
+}
 
-<head>
-<link rel="stylesheet" type="text/css" href="css/style.css">
-	<figure>
-		<img src="images/Alex_GA Headshot.png" alt="Picture of Logo" title="Fun picture of site owner used as logo">
-	</figure>
-	<nav id="toplinks">
-		<a href="">Link</a>
-		<a href="">Link</a>
-	</nav>
-</head>
+menu {
+	border: 1px black solid;
+	padding: 20px;
+	background-color: #FF99AD;
+}
 
-<section id="one">
-	<figcaption>
-		<h1>Comms Anatomy</h1>
-		<h2 id="slogan"> Where We Deconstruct Campaigns</h2>
-		<p> Breaking down campaigns. Building them up again. <br>
-		Analyzing how the component parts build out a campaign.</p>
-	</figcaption>
-</section>
+#two_column {
+	background-color: #FF0000;
+	border: 1px black solid;
+	padding: 20px;
+}
 
-<menu>
-	<a href="">Link</a>
-	<a href="">Link</a>
-	<a href="">Link</a>
-	<a href="">Link</a>
-</menu>
+#left {
+	background-color: violet;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 62%;
+}
 
-<section id="two_column" class="clearfix"> 
-	<figure id="left">
-		<p>Lorem Ipsum... </p>
-		<img src="">
-	</figure>
-	<aside id="right">
-		<h3>Headline</h3>
-		<p>Some text here</p>
-		<figcaption>
-			<p>Some text here</p>
-		</figcaption>
-		<figcaption>
-			<p>Some text here</p>		
-		</figcaption>
-		<figcaption>
-			<p>Some text here</p>		
-		</figcaption>
-	</aside>
-</section> 
+#right {
+	background-color: pink;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 30%;
+}
 
-<footer>
-	<p>by Alex Royston</p>
-</footer>
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+footer {
+	background-color: #FF4F56;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+h1 {
+	font-family: 'Krona One', sans-serif;
+	font-size: 3em;
+	padding: 20px;
+	padding-top: 200px;
+}
+h1,h2,p {
+	color: rgb(127,0,0);
+}
+h2 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 2em;
+	padding: 20px;
+	padding-top: 50px;
+}
+#slogan {
+		font-style: italic;
+	}
+p {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.5em;
+	padding: 10px;
+}
+
 
